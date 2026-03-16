@@ -1,0 +1,121 @@
+date,channel,campaign,cost,clicks,leads
+2024-01-01,Google Ads,Newsletter,435,771,62
+2024-01-01,Facebook Ads,Lead Campaign,81,590,13
+2024-01-01,Instagram Ads,Lead Campaign,345,551,45
+2024-01-01,Email,Newsletter,184,929,28
+2024-01-02,Google Ads,Remarketing,217,1412,79
+2024-01-02,Facebook Ads,Remarketing,120,209,36
+2024-01-02,Instagram Ads,Lead Campaign,184,808,50
+2024-01-02,Email,Lead Campaign,445,282,58
+2024-01-03,Google Ads,Remarketing,451,766,37
+2024-01-03,Facebook Ads,Lead Campaign,514,564,16
+2024-01-03,Instagram Ads,Lead Campaign,524,1178,67
+2024-01-03,Email,Lead Campaign,406,1111,36
+2024-01-04,Google Ads,Lead Campaign,196,1352,48
+2024-01-04,Facebook Ads,Search Campaign,550,1194,25
+2024-01-04,Instagram Ads,Newsletter,530,205,41
+2024-01-04,Email,Lead Campaign,125,1032,75
+2024-01-05,Google Ads,Search Campaign,59,1304,66
+2024-01-05,Facebook Ads,Newsletter,590,1497,48
+2024-01-05,Instagram Ads,Remarketing,488,637,20
+2024-01-05,Email,Lead Campaign,474,1190,63
+2024-01-06,Google Ads,Newsletter,249,1181,51
+2024-01-06,Facebook Ads,Newsletter,104,1002,16
+2024-01-06,Instagram Ads,Newsletter,204,635,13
+2024-01-06,Email,Search Campaign,65,335,40
+2024-01-07,Google Ads,Remarketing,441,1169,46
+2024-01-07,Facebook Ads,Newsletter,284,421,73
+2024-01-07,Instagram Ads,Search Campaign,213,936,50
+2024-01-07,Email,Newsletter,267,646,72
+2024-01-08,Google Ads,Search Campaign,595,1026,55
+2024-01-08,Facebook Ads,Remarketing,164,268,19
+2024-01-08,Instagram Ads,Remarketing,437,1171,33
+2024-01-08,Email,Newsletter,541,1234,53
+2024-01-09,Google Ads,Lead Campaign,598,519,78
+2024-01-09,Facebook Ads,Search Campaign,562,1359,43
+2024-01-09,Instagram Ads,Search Campaign,250,456,57
+2024-01-09,Email,Search Campaign,552,720,72
+2024-01-10,Google Ads,Newsletter,166,854,34
+2024-01-10,Facebook Ads,Remarketing,98,479,17
+2024-01-10,Instagram Ads,Search Campaign,192,1344,45
+2024-01-10,Email,Newsletter,119,1150,18
+2024-01-11,Google Ads,Lead Campaign,315,868,73
+2024-01-11,Facebook Ads,Remarketing,465,1330,52
+2024-01-11,Instagram Ads,Newsletter,588,1452,76
+2024-01-11,Email,Remarketing,285,834,19
+2024-01-12,Google Ads,Search Campaign,58,396,29
+2024-01-12,Facebook Ads,Newsletter,416,1335,28
+2024-01-12,Instagram Ads,Newsletter,51,844,67
+2024-01-12,Email,Search Campaign,242,1226,63
+2024-01-13,Google Ads,Newsletter,492,1178,80
+2024-01-13,Facebook Ads,Newsletter,159,1446,14
+2024-01-13,Instagram Ads,Remarketing,131,509,54
+2024-01-13,Email,Lead Campaign,351,888,10
+2024-01-14,Google Ads,Newsletter,597,866,67
+2024-01-14,Facebook Ads,Newsletter,373,447,28
+2024-01-14,Instagram Ads,Remarketing,380,751,50
+2024-01-14,Email,Search Campaign,255,1409,39
+2024-01-15,Google Ads,Newsletter,582,1284,13
+2024-01-15,Facebook Ads,Search Campaign,106,1217,63
+2024-01-15,Instagram Ads,Remarketing,312,357,69
+2024-01-15,Email,Newsletter,387,265,33
+2024-01-16,Google Ads,Lead Campaign,299,1031,49
+2024-01-16,Facebook Ads,Remarketing,517,979,62
+2024-01-16,Instagram Ads,Search Campaign,575,677,27
+2024-01-16,Email,Newsletter,115,1134,31
+2024-01-17,Google Ads,Remarketing,213,1464,42
+2024-01-17,Facebook Ads,Remarketing,553,1109,67
+2024-01-17,Instagram Ads,Lead Campaign,124,970,31
+2024-01-17,Email,Newsletter,375,496,30
+2024-01-18,Google Ads,Newsletter,70,460,12
+2024-01-18,Facebook Ads,Remarketing,592,518,66
+2024-01-18,Instagram Ads,Lead Campaign,543,668,64
+2024-01-18,Email,Remarketing,356,619,78
+2024-01-19,Google Ads,Search Campaign,580,1368,34
+2024-01-19,Facebook Ads,Remarketing,311,861,43
+2024-01-19,Instagram Ads,Newsletter,476,1338,71
+2024-01-19,Email,Lead Campaign,57,463,51
+2024-01-20,Google Ads,Newsletter,376,870,62
+2024-01-20,Facebook Ads,Lead Campaign,359,1431,72
+2024-01-20,Instagram Ads,Lead Campaign,458,398,44
+2024-01-20,Email,Newsletter,433,1148,32
+2024-01-21,Google Ads,Remarketing,167,570,52
+2024-01-21,Facebook Ads,Remarketing,389,291,19
+2024-01-21,Instagram Ads,Remarketing,53,417,51
+2024-01-21,Email,Search Campaign,526,617,64
+2024-01-22,Google Ads,Newsletter,516,926,55
+2024-01-22,Facebook Ads,Lead Campaign,122,1184,32
+2024-01-22,Instagram Ads,Remarketing,468,1088,67
+2024-01-22,Email,Newsletter,473,1202,55
+2024-01-23,Google Ads,Search Campaign,384,663,57
+2024-01-23,Facebook Ads,Remarketing,565,286,11
+2024-01-23,Instagram Ads,Newsletter,374,619,58
+2024-01-23,Email,Remarketing,593,920,22
+2024-01-24,Google Ads,Search Campaign,325,1433,19
+2024-01-24,Facebook Ads,Remarketing,154,536,19
+2024-01-24,Instagram Ads,Newsletter,371,1289,37
+2024-01-24,Email,Search Campaign,231,1245,68
+2024-01-25,Google Ads,Lead Campaign,68,529,24
+2024-01-25,Facebook Ads,Lead Campaign,72,1329,23
+2024-01-25,Instagram Ads,Remarketing,241,861,18
+2024-01-25,Email,Search Campaign,217,367,77
+2024-01-26,Google Ads,Newsletter,496,599,47
+2024-01-26,Facebook Ads,Remarketing,574,1169,69
+2024-01-26,Instagram Ads,Remarketing,89,646,14
+2024-01-26,Email,Remarketing,273,1126,21
+2024-01-27,Google Ads,Newsletter,484,1083,45
+2024-01-27,Facebook Ads,Search Campaign,223,321,49
+2024-01-27,Instagram Ads,Newsletter,561,1022,61
+2024-01-27,Email,Newsletter,230,1134,28
+2024-01-28,Google Ads,Newsletter,262,800,64
+2024-01-28,Facebook Ads,Search Campaign,146,351,77
+2024-01-28,Instagram Ads,Remarketing,128,1048,11
+2024-01-28,Email,Remarketing,541,641,22
+2024-01-29,Google Ads,Search Campaign,195,1318,33
+2024-01-29,Facebook Ads,Search Campaign,150,206,55
+2024-01-29,Instagram Ads,Remarketing,455,906,31
+2024-01-29,Email,Search Campaign,396,535,22
+2024-01-30,Google Ads,Lead Campaign,252,696,14
+2024-01-30,Facebook Ads,Search Campaign,372,726,11
+2024-01-30,Instagram Ads,Newsletter,600,725,30
+2024-01-30,Email,Remarketing,302,1348,12
