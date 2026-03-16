@@ -1,21 +1,56 @@
 # Marketing Data Platform
 
-Projeto que simula uma plataforma de dados para análise de campanhas de marketing.
+Mini plataforma de dados para análise de campanhas de marketing.
+
+O projeto simula um pipeline de dados usado por times de marketing e BI, realizando:
+
+- geração de dados simulados de campanhas
+- ingestão e transformação de dados
+- cálculo de KPIs de marketing
+- envio automático para Google Sheets
+- consumo dos dados em dashboard no Looker Studio
 
 ## Arquitetura
 
-Data ingestion → Transformation → Analytics → Dashboard
+Data Generation → Ingestion → Transformation → Analytics → Dashboard
 
 ## Tecnologias
 
 Python  
 Pandas  
-Data Pipelines  
-Analytics  
+Google Sheets API  
+Looker Studio  
 
-## Métricas analisadas
+## Métricas de Marketing
 
-CPC  
-CPL  
+CPL (Cost per Lead)  
+CPC (Cost per Click)  
 Leads por canal  
-Custo por canal
+Ranking de canais
+
+## Data Pipeline Architecture
+Marketing Data Generation
+        ↓
+Ingestion Pipeline (Python)
+        ↓
+Data Transformation
+        ↓
+Analytics Layer (KPIs)
+        ↓
+Google Sheets
+        ↓
+Looker Studio Dashboard
+
+## Como executar o projeto
+
+1 - Clonar repositório
+
+git clone https://github.com/lusimar/marketing-data-platform.git
+
+2 - Instalar dependências
+
+pip install -r requirements.txt
+
+3 - Rodar pipeline
+
+python run_pipeline.py
